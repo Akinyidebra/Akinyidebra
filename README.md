@@ -1,7 +1,6 @@
 # Hello, I'm Debra Akinyi 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/Akinyidebra?label=Follow&style=social)](https://github.com/Akinyidebra)
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?label=Follow&style=social)](https://twitter.com/your_twitter_handle)
 
 ## 💫 About Me
 I'm a passionate Flutter Developer and UI/UX Designer who loves creating beautiful, functional mobile experiences. I enjoy bringing ideas to life through clean code and thoughtful design.
@@ -50,11 +49,8 @@ I'm a passionate Flutter Developer and UI/UX Designer who loves creating beautif
 ## 🏆 Recent Projects
 
 <!-- You can add your featured repositories here with images and descriptions -->
-<a href="https://github.com/Akinyidebra/project-name">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinyidebra&repo=project-name&theme=tokyonight" />
-</a>
-<a href="https://github.com/Akinyidebra/another-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinyidebra&repo=another-project&theme=tokyonight" />
+<a href="https://github.com/Akinyidebra/fintech_bridge">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akinyidebra&repo=fintech_bridge&theme=tokyonight" />
 </a>
 
 ## 📫 How to reach me
